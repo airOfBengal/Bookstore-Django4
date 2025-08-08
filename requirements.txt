@@ -1,0 +1,6 @@
+asgiref==3.9.1
+Django==4.0.10
+legacy-cgi==2.6.3
+sqlparse==0.5.3
+tzdata==2025.2
+psycopg2-binary
